@@ -24,6 +24,7 @@ backend/uploads/*
 .env.test.local
 .env.production.local
 .env
+.env.example
 
 # log files
 npm-debug.log*
