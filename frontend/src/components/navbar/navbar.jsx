@@ -2,7 +2,7 @@
 import "./navbar.scss";
 import MenuIcon from '@mui/icons-material/Menu';
 import { useState } from "react";
-import logo from "../titan-clear-logo.png"
+import logo from "../sehat-saathi.png"
 import { Link, useNavigate } from "react-router-dom";
 import { useContext } from "react";
 import { logout } from "../../utils/authentication/auth-helper";
