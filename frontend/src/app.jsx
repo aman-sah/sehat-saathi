@@ -95,6 +95,7 @@ const App = () => {
 export default App;
 
 /* 
+Hello World
 In JavaScript, there are several naming conventions that developers follow for function names, page names, file names, and variable names. These conventions help improve code readability and maintainability. Here are some common naming conventions:
 
 Camel Case (e.g., myFunctionName, pageName, fileName):

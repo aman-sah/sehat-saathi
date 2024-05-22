@@ -1,7 +1,7 @@
 /* React page for registering a new account */
 import { useState } from "react";
 import "./register.scss";
-import logo from "../../components/titan-clear-logo.png";
+import logo from "../register/sehat-saathi.png";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
 import { useRef } from "react";

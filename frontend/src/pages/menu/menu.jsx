@@ -211,9 +211,9 @@ const Menu = () => {
     /* set correct dining court info when location changes */
     useEffect(() => {
         if (location === WINDSOR) {
-            setNumber("(765) 496-3905");
-            setEmail("kbinge@purdue.edu");
-            setLoc("205 North Russell Street West Lafayette, IN 47906");
+            setNumber("+91 9534940053");
+            setEmail("aman2181.be21@chitkara.edu.in");
+            setLoc("Chitkara University, Rajpura, Punjab, 140401");
         }
         if (location === WILEY) {
             setNumber("(765) 494-2264");

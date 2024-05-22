@@ -98,7 +98,7 @@ const CorecInfo = () => {
 						style={{ border: 0 }}
 						loading="lazy"
 						allowfullscreen
-						src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJBwU-Qjf9EogRjnwai8-yzI4&destination=place_id:ChIJc3NYhLXiEogRzh1avYzXIBc&key=AIzaSyAX3ogg6uXEyBxm_OyGGhvv9Z6hUr6yKts"
+						src="https://www.google.com/maps/embed/v1/directions?origin=place_id:ChIJ1-KmRCPDDzkRypkX6d5Gs4E&destination=place_id:ChIJD015cpjiDDkRuWuziID8b8Q&key=AIzaSyAX3ogg6uXEyBxm_OyGGhvv9Z6hUr6yKts"
 					>
 					</iframe>
 				</Box>

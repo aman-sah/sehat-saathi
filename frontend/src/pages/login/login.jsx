@@ -1,7 +1,8 @@
 /* React page for login */
 import "./login.scss";
 import { login } from "../../utils/authentication/auth-helper";
-import logo from "../../components/titan-clear-logo.png";
+// import logo from "../../components/navbar/";
+import logo from "../login/sehat-saathi.png"
 import { Link, useLocation } from "react-router-dom";
 import { AuthContext } from "../../utils/authentication/auth-context";
 import { useEffect, useRef, useContext, useState } from "react";

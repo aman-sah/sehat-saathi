@@ -91,7 +91,7 @@ const Navbar = () => {
                             </Link>
                         </div>
                     </div>
-                    <div className="dropdown">
+                    {/* <div className="dropdown">
                         <span>Dining courts ▾</span>
                         <div className="diningDropdownOptions">
                             <Link to={ROUTES.MENU_INFO + "/Windsor"} className="link">
@@ -110,8 +110,8 @@ const Navbar = () => {
                                 <span className="highlight">Hillenbrand</span>
                             </Link>
                         </div>
-                    </div>
-                    <div className="dropdown">
+                    </div> */}
+                    {/* <div className="dropdown">
                         <span>More Dining ▾</span>
                         <div className="moreDiningDropdownOptions">
                             <Link to={ROUTES.SAVED_MENU_ITEMS} className="link">
@@ -124,7 +124,7 @@ const Navbar = () => {
                                 <span>Recommended Menu Items</span>
                             </Link>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
                 <div className="right">
                     <div className="profile">
