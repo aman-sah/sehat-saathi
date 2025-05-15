@@ -28,7 +28,7 @@ Sehat Saathi helped me explore full-stack development with a focus on:
 ---
 
 ## 🏗️ Setup & Run Locally
-
+```bash
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/aman-sah/sehat-saathi.git
