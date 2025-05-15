@@ -42,7 +42,9 @@ Sehat Saathi helped me explore full-stack development with a focus on:
 ```
 
 3. **Setup environment variables:**
+```bash
 - Create .env files in /backend with required MongoDB and other keys (see /backend/.env.example).
+```
 
 4. **Run backend server:**
 ```bash
