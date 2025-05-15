@@ -33,6 +33,7 @@ Sehat Saathi helped me explore full-stack development with a focus on:
    ```bash
    git clone https://github.com/aman-sah/sehat-saathi.git
 2. **Install dependencies:**
+```bash
 - cd backend  
 - yarn
 - cd frontend
