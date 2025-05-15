@@ -33,9 +33,18 @@ Sehat Saathi helped me explore full-stack development with a focus on:
    ```bash
    git clone https://github.com/aman-sah/sehat-saathi.git
 2. **Install dependencies:**
+- cd backend  
+- yarn
+- cd frontend
+- yarn
 
-bash
-cd backend
-yarn
-cd ../frontend
-yarn
+3. **Setup environment variables:**
+- Create .env files in /backend with required MongoDB and other keys (see /backend/.env.example).
+
+4. **Run backend server:**
+- cd backend  
+- yarn start
+
+4. **Run frontend server:**
+- cd frontend 
+- yarn start
